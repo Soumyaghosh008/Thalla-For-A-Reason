@@ -7,4 +7,4 @@ Author: Soumyadeep Ghosh
 This is a fun project based on the meme "Thalla For A Reason".For details you can visit the Information section.
 <br>
 <h1>Contribution:</h1>
-Contributions are openly allowed.If you mare creative ideas about this project you can do it freely 😉.
+Contributions are openly allowed.If you have more creative ideas about this project you can do it freely 😉.
